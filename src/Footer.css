@@ -5,7 +5,7 @@
     }
   }
   
-  .footer-right p,
+  .footer p,
   .footer_middle p {
     font-family: montserrat;
     font-size: 16px;
@@ -32,24 +32,24 @@
     font-weight: 500;
     text-transform: none;
   }
+  
   ul.footer_list a:hover {
     color: rgba(54, 204, 142, 1);
     text-decoration: none;
     list-style: none;
   }
   
-  .footer_middle h4, .footer-right h4 {
+  .footer_middle h4, .footer h4 {
     font-family: montserrat;
     font-size: 24px;
   }
-  
   
   .footer_middle {
     text-align: center;
     padding: 0;
   }
   
-  .footer-right h4, .footer-left h4 {
+  .footer h4, .footer-left h4 {
     font-family: montserrat;
     font-size: 18px;
     margin-bottom: 10px;
