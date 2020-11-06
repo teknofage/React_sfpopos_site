@@ -1,6 +1,7 @@
 // src/Project.js
 
 import React from 'react'
+import './POPOSSpace.js'
 
 function POPOSSpace(props) {
     const { name, image, address } = props
