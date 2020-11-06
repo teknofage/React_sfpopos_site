@@ -2,6 +2,8 @@ import './Footer.css';
 
 
 function Footer () {
+    return (
+        <div className="Footer">
 <div class="container">
   <div class="footer_trust_top">
     <p>AS FEATURED IN</p>
@@ -44,8 +46,7 @@ function Footer () {
   </div>
 
 
-return (
-    <div className="Footer">
+
     
     </div>
 )
