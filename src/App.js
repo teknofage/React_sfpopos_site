@@ -6,13 +6,14 @@ import './App.css';
 import Title from './Title';
 // import POPOSDetails from './POPOSDetails/POPOSDetails'
 import POPOSList from './POPOSList';
-import './Footer';
+import Footer from './Footer';
 
 function App() {
   return (
     <div className="App">
       <Title />
       <POPOSList />
+      <Footer />
     </div>
   );
 }

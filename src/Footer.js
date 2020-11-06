@@ -1,3 +1,7 @@
+import './Footer.css';
+
+
+function Footer () {
 <div class="container">
   <div class="footer_trust_top">
     <p>AS FEATURED IN</p>
@@ -34,7 +38,19 @@
   </div>
   
   <div class="footer_bottom"><div class="col-lg-3 col-md-12 footer_copyright">
-    <p>©2018 All rights reserved.</p>
+    <p>©2020 All rights reserved.</p>
   </div>
   </div>
   </div>
+
+
+return (
+    <div className="Footer">
+    
+    </div>
+)
+}
+
+
+
+export default Footer
